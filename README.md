@@ -8,7 +8,7 @@ O Orange Portfólio, é uma aplicação web focada na gestão de portfolios para
 
 A aplicação foi desenvolvida como parte do Hackathon Programa de Formação 5° edição da FCamara e Orange Juice.
 
-![](Gravação de tela de 06-02-2024 11_34_15 (video-converter.com).gif)
+![](video_apresentacao.gif)
 
 ## Colaboradores - (aka Squad do taiga)
 
